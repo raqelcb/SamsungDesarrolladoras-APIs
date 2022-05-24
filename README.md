@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://www.europe-samsung.com/smsdev/Noticias/Detalle/adentrate_en_el_mundo_de_la_programacion_con_la_nueva_edicion_del_programa_formativo_samsung_desarrolladoras/174b17f7-e14e-447f-9524-7f55f414a0f5">
-    <img src="images/JSON_Cover.png" alt="APIs_Cover">
+    <img src="images/APIs_Cover.png" alt="APIs_Cover">
   </a>
 
   <p align="center">
