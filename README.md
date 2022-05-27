@@ -8,7 +8,7 @@
   <p align="center">
     The purpose of this project is to define a shopping list in JSON format with as much detail as possible, being possible to mark if the product has been purchased or not.
     <br />
-    <a style="color:#874EA0" href="https://github.com/raqelcb/SamsungDesArrolladoras-JSON/blob/main/EnunciadoAPI_HTML5.pdf"><strong>Explore the subject »</strong></a>
+    <a style="color:#874EA0" href="https://github.com/raqelcb/SamsungDesArrolladoras-APIs/blob/main/EnunciadoAPI_HTML5.pdf"><strong>Explore the subject »</strong></a>
     <br />
     <br />
     <a style="color:#874EA0" href="https://github.com/raqelcb/SamsungDesArrolladoras-Lab_form">Laboratorio Formulario</a>
